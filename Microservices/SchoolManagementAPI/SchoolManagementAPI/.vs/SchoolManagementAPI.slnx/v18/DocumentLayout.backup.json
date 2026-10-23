@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\schoolmanagementapi\\schoolmanagementapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\schoolmanagementapi\\schoolmanagementapi\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|solutionrelative:model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\schoolmanagementapi\\schoolmanagementapi\\model\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F61ECF-EDDD-48D7-92CF-1436BF3A990E}|SchoolManagementAPI.csproj|solutionrelative:model\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Organization.cs",
+              "RelativeDocumentMoniker": "Model\\Organization.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Organization.cs",
+              "RelativeToolTip": "Model\\Organization.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:39:40.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Model\\Department.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Department.cs",
+              "RelativeToolTip": "Model\\Department.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:38:50.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\SchoolManagementAPI\\SchoolManagementAPI\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T16:38:26.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

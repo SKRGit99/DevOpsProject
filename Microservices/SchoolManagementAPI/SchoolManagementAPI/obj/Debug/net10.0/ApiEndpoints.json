@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "SchoolManagementAPI.Controller.StudentController",
+    "Method": "GetStudentDetails",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementAPI.Controller.StudentController",
+    "Method": "GetIndividualStudentDetailsByRegistrationId",
+    "RelativePath": "api/Student/{registrationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolManagementAPI.Controller.StudentController",
+    "Method": "GetStudentDetailsForDropdown",
+    "RelativePath": "api/Student/dropdown",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
