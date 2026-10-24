@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  # Container A: Source Student API
+  StudentManagementAPI:
+    build:
+      context: ./SchoolManagementAPI
+      dockerfile: Dockerfile
+    container_name: student-api-container
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__SchoolManagementAppDbConnectionString=Server=host.docker.internal,1433;Database=SchoolManagementAppDevDb;User Id=schoolappuserlogin;Password=Sampat@123;TrustServerCertificate=True
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - school-network
+
+  # Container B: Centralized Collector & Sync API
+  SyncAPI:
+    build:
+      context: ./SchoolManagementAPI
+      dockerfile: Dockerfile
+    container_name: sync-api-container
+    ports:
+      - "8081:8080"   # Exposed on host port 8081
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - StudentApiSettings__BaseUrl=http://StudentManagementAPI:8080
+      - ConnectionStrings__SchoolManagementAppDbConnectionString=Server=host.docker.internal,1433;Database=SchoolManagementAppDevDb;User Id=schoolappuserlogin;Password=Sampat@123;TrustServerCertificate=True
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    depends_on:
+      - StudentManagementAPI
+    networks:
+      - school-network
+
+networks:
+  school-network:
+    driver: bridge
