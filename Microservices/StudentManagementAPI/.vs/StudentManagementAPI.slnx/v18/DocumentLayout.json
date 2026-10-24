@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\businessaccesslayer\\studentbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:businessaccesslayer\\studentbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:repo\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repo\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:repo\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\repo\\organizationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:repo\\organizationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\abstract\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:abstract\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\model\\studentdetailsfordropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:model\\studentdetailsfordropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\model\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:model\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|c:\\users\\sampat kumar rahul\\source\\repos\\studentmanagementapi\\studentmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97EAC5E5-6C6B-458F-9FEF-1454A50531AF}|StudentManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controller\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Controller\\StudentController.cs",
+              "RelativeToolTip": "Controller\\StudentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:59:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBAL.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\BusinessAccessLayer\\StudentBAL.cs",
+              "RelativeDocumentMoniker": "BusinessAccessLayer\\StudentBAL.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\BusinessAccessLayer\\StudentBAL.cs",
+              "RelativeToolTip": "BusinessAccessLayer\\StudentBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:57:57.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:55:49.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T08:54:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\StudentRepo.cs",
+              "RelativeToolTip": "Repo\\StudentRepo.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:53:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\DepartmentRepo.cs",
+              "RelativeToolTip": "Repo\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:52:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrganizationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\OrganizationRepo.cs",
+              "RelativeDocumentMoniker": "Repo\\OrganizationRepo.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Repo\\OrganizationRepo.cs",
+              "RelativeToolTip": "Repo\\OrganizationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:51:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDetailsForDropDown.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\StudentDetailsForDropDown.cs",
+              "RelativeDocumentMoniker": "Model\\StudentDetailsForDropDown.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\StudentDetailsForDropDown.cs",
+              "RelativeToolTip": "Model\\StudentDetailsForDropDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:49:04.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:46:38.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Model\\Department.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Department.cs",
+              "RelativeToolTip": "Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:44:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Organization.cs",
+              "RelativeDocumentMoniker": "Model\\Organization.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Model\\Organization.cs",
+              "RelativeToolTip": "Model\\Organization.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:44:00.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Abstract\\IStudent.cs",
+              "RelativeDocumentMoniker": "Abstract\\IStudent.cs",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Abstract\\IStudent.cs",
+              "RelativeToolTip": "Abstract\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:41:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T08:32:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sampat Kumar Rahul\\source\\repos\\StudentManagementAPI\\StudentManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T08:31:51.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
