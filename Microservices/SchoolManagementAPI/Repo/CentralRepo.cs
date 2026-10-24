@@ -31,9 +31,10 @@ namespace SchoolManagementAPI.Repo
             cmd.Parameters.Add(new SqlParameter("@isRegisteredStudent", SqlDbType.Char, 1) { Value = student.IsRegisteredStudent });
             cmd.Parameters.Add(new SqlParameter("@studentRegistrationId", SqlDbType.Int) { Value = student.StudentRegistrationId });
             cmd.Parameters.Add(new SqlParameter("@studentRegistrationDate", SqlDbType.DateTime) { Value = student.StudentRegistrationDate });
-            cmd.Parameters.Add(new SqlParameter("@studentRollNumber", SqlDbType.Int) { Value = student.StudentPhoneNumber });
+            cmd.Parameters.Add(new SqlParameter("@studentRollNumber", SqlDbType.Int) { Value = student.RollNumber });
             cmd.Parameters.Add(new SqlParameter("@StudentClass", SqlDbType.Int) { Value = student.StudentClass });
             cmd.Parameters.Add(new SqlParameter("@studentSectionId", SqlDbType.Int) { Value = student.StudentSectionId });
+            cmd.Parameters.Add(new SqlParameter("@studentPhoneNumber", SqlDbType.VarChar, 50) { Value = student.StudentPhoneNumber });
             cmd.Parameters.Add(new SqlParameter("@studentAddressLine1", SqlDbType.VarChar, 100) { Value = student.StudentAddressLine1 });
             cmd.Parameters.Add(new SqlParameter("@studentAddressLine2", SqlDbType.VarChar, 100) { Value = student.StudentAddressLine2 });
             cmd.Parameters.Add(new SqlParameter("@studentCity", SqlDbType.VarChar, 50) { Value = student.StudentCity });
