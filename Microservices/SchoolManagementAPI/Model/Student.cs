@@ -288,5 +288,10 @@
     public record CreateStudentDto(string Name);
     public record UpdateStudentDto(string Name);
 
-
+    public class SyncResult
+    {
+        public int TotalFetched { get; set; }
+        public int TotalSynced { get; set; }
+        public string Status { get; set; } = string.Empty;
+    }
 }

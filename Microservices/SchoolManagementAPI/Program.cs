@@ -1,6 +1,7 @@
 using SchoolManagementAPI.Abstract;
 using SchoolManagementAPI.Repo;
 using SchoolManagementAPI.BusinessAccessLayer;
+using SchoolManagementAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,19 @@ builder.Services.AddSwaggerGen();
 // 3. Dependency Injection
 builder.Services.AddScoped<IStudent, StudentRepo>();
 builder.Services.AddScoped<StudentBAL>();
+
+builder.Services.AddScoped<ICentralStudent, CentralRepo>();
+
+// Register Repository
+builder.Services.AddScoped<ICentralStudent, CentralRepo>();
+
+// Register Typed HttpClient with BaseUrl pointing to the other container
+builder.Services.AddHttpClient<IStudentSyncService, StudentSyncService>(client =>
+{
+    var baseUrl = builder.Configuration["StudentApiSettings:BaseUrl"] ?? "http://StudentManagementAPI:8080";
+    client.BaseAddress = new Uri(baseUrl);
+    client.Timeout = TimeSpan.FromSeconds(30);
+});
 
 var app = builder.Build();
 
