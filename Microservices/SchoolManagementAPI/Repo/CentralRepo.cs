@@ -29,7 +29,7 @@ namespace SchoolManagementAPI.Repo
             cmd.Parameters.Add(new SqlParameter("@StudentMiddleName", SqlDbType.VarChar, 50) { Value = student.StudentMiddleName });
             cmd.Parameters.Add(new SqlParameter("@StudentLastName", SqlDbType.VarChar, 50) { Value = student.StudentLastName });
             cmd.Parameters.Add(new SqlParameter("@isRegisteredStudent", SqlDbType.Char, 1) { Value = student.IsRegisteredStudent });
-            cmd.Parameters.Add(new SqlParameter("@studentRegistrationId", SqlDbType.Int) { Value = student.StudentRegistrationId });
+            cmd.Parameters.Add(new SqlParameter("@studentRegistrationId", SqlDbType.VarChar, 50) { Value = student.StudentRegistrationId });
             cmd.Parameters.Add(new SqlParameter("@studentRegistrationDate", SqlDbType.DateTime) { Value = student.StudentRegistrationDate });
             cmd.Parameters.Add(new SqlParameter("@studentRollNumber", SqlDbType.Int) { Value = student.RollNumber });
             cmd.Parameters.Add(new SqlParameter("@StudentClass", SqlDbType.Int) { Value = student.StudentClass });
