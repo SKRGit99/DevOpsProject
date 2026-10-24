@@ -4,14 +4,14 @@ services:
   # Container A: Source Student API
   StudentManagementAPI:
     build:
-      context: ./SchoolManagementAPI
+      context: ./StudentManagementAPI
       dockerfile: Dockerfile
     container_name: student-api-container
     ports:
       - "8080:8080"
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__SchoolManagementAppDbConnectionString=Server=host.docker.internal,1433;Database=SchoolManagementAppDevDb;User Id=schoolappuserlogin;Password=Sampat@123;TrustServerCertificate=True
+      - ConnectionStrings__StudentManagementAppDbConnectionString=Server=host.docker.internal,1433;Database=SchoolManagementAppDevDb;User Id=schoolappuserlogin;Password=Sampat@123;TrustServerCertificate=True
     extra_hosts:
       - "host.docker.internal:host-gateway"
     networks:
